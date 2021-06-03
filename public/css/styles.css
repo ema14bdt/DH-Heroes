@@ -1,0 +1,43 @@
+html{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+header{
+    border-bottom: 3px solid black;
+}
+
+body{
+    background-image: url('../img/fondo.jpg');
+    background-size: cover;
+}
+
+.nombrePagina{
+    text-align: center;
+}
+
+h1 {
+    color: red;
+    font-weight: normal;
+    text-decoration: underline;
+}
+
+p {
+    background-color: rgba(0, 0, 0, 0.8);
+    color: white;
+}
+p a {
+    color: red;
+}
+
+nav ul li{
+    color: black;
+    font-size: x-large;
+    float: left;
+    list-style: none;
+    margin: 10px;
+}
+
+.menuHorizontal{
+    clear: both;
+    border-bottom: 3px solid black;
+}
